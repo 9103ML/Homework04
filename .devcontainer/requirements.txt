@@ -1,0 +1,5 @@
+ipywidgets
+matplotlib
+pandas
+scikit-learn
+gradio_client
